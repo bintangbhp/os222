@@ -42,7 +42,7 @@ Basic Git tutorial for beginners (in Indonesian).
 8. [Introduction to Cyber Security](https://www.codecademy.com/learn/introduction-to-cybersecurity)<br>
 Data is valuable. With so much sensitive information online, companies need cybersecurity pros to protect it. This course is a great starting point for anyone interested in cybersecurity, but not sure where to start.
 
-WEEK 2
+WEEK 3
 
 9. [How to Format Disk Partitions in Linux](https://phoenixnap.com/kb/linux-format-disk)<br>
 This article helps me understand about the difference between Disk Formats and which OS supports them. It also explains about partition checking, formatting disks on linux, and mounting disks on Linux.
