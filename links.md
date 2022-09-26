@@ -41,3 +41,14 @@ Basic Git tutorial for beginners (in Indonesian).
 
 8. [Introduction to Cyber Security](https://www.codecademy.com/learn/introduction-to-cybersecurity)<br>
 Data is valuable. With so much sensitive information online, companies need cybersecurity pros to protect it. This course is a great starting point for anyone interested in cybersecurity, but not sure where to start.
+
+WEEK 2
+
+9. [How to Format Disk Partitions in Linux](https://phoenixnap.com/kb/linux-format-disk)<br>
+This article helps me understand about the difference between Disk Formats and which OS supports them. It also explains about partition checking, formatting disks on linux, and mounting disks on Linux.
+
+10. [Develop your own filesystem with FUSE](https://developer.ibm.com/articles/l-fuse/)<br>
+This article shows how to unpack, build, and install your own filesystem. It also shows how to customize the filesystem.
+
+11. [Chmod Command in Linux (File Permissions)](https://linuxize.com/post/chmod-command-in-linux/)<br>
+In our file, we have this thing called “File Permission”. And to change what we have we need access to that file permission. With this article, I learn about how to use “chmod” command to change the access permissions of files and directory.
