@@ -52,3 +52,14 @@ This article shows how to unpack, build, and install your own filesystem. It als
 
 11. [Chmod Command in Linux (File Permissions)](https://linuxize.com/post/chmod-command-in-linux/)<br>
 In our file, we have this thing called ‚ÄúFile Permission‚Äù. And to change what we have we need access to that file permission. With this article, I learn about how to use ‚Äúchmod‚Äù command to change the access permissions of files and directory.
+
+WEEK 4
+
+12. [Linux Basics: Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
+This article explains a good explanation about how static and dynamic libraries works in Linux. ìYou came to the right place if youíre wondering how static and dynamic libraries work in C programs,î the writer writes. The article even has some video resources as a supplement for you. I recommend this article if you want to understand deeply about libraries in Linux and C (since, you know, Linux is made of C language).
+
+13. [What is memory mapping in Linux?](https://frameboxxindore.com/linux/what-is-memory-mapping-in-linux.html)<br>
+This article explains a brief yet comprehensive explanation about memory mapping in Linux. Memory mapping is one of the most interesting features of a Unix system, so I highly recommend you to push your limits on learning memory mapping. This article even has videos to explain the concept behind memory mapping and nmap program in Linux.
+
+14. [Pointers in C++](https://personal.utdallas.edu/~rkm010300/utd/cs3376/ppt/ch09.pdf)<br>
+Even though this slide presentation is intended for C++, I think it is still providing a good basic for understanding pointers in C. C++ is a programming language which is an extension of the C programming language; that is why most of concepts of C++ is still appicable for C, even though it might have different syntax. This slide has a comprehensive explanation about pointers. It even has some basic visualization to help you out!
