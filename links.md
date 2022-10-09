@@ -63,3 +63,11 @@ This article explains a brief yet comprehensive explanation about memory mapping
 
 14. [Pointers in C++](https://personal.utdallas.edu/~rkm010300/utd/cs3376/ppt/ch09.pdf)<br>
 Even though this slide presentation is intended for C++, I think it is still providing a good basic for understanding pointers in C. C++ is a programming language which is an extension of the C programming language; that is why most of concepts of C++ is still appicable for C, even though it might have different syntax. This slide has a comprehensive explanation about pointers. It even has some basic visualization to help you out!
+
+WEEK 5
+
+15. [Things To Know About Linux Kernel Panic](https://www.linuxandubuntu.com/home/things-to-know-about-linux-kernel-panic)<br>
+More reading about kernel panic, it has explanation about the cause and effect. Still related to this week task, and has a good explanation.
+
+16. [GFG's Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+An article that concretely explains what is Virtual Memory, how it works, and its various techniques.
