@@ -71,3 +71,11 @@ More reading about kernel panic, it has explanation about the cause and effect. 
 
 16. [GFG's Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 An article that concretely explains what is Virtual Memory, how it works, and its various techniques.
+
+WEEK 6
+
+17. [tar man page](https://linux.die.net/man/1/tar)<br>
+If you still being clueless about how tar command works eventho we already in week 6, don't worry. You still not too late to check this manual page out. Legend said we should always relied on man page.
+
+18. [SCP Linux Command](https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/)<br>
+This tutorial will help you so much when working on PopQuiz 2. And yeah SCP is a safer option for cp command that protect the transferred data from suspicious attacks.
