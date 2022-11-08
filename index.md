@@ -1,6 +1,6 @@
 By {{ site.author }}
 
-[HOME]({{ site.baseurl }}/) --- [LOG]({{ site.myloglink }}) --- [LINKS]({{ site.baseurl }}/LINKS/) --- [GITHUB]({{ site.githublink }})
+[HOME]({{ site.baseurl }}/) --- [LOG]({{ site.baseurl }}{{ site.myloglink }}) --- [LINKS]({{ site.baseurl }}/LINKS/) --- [GITHUB]({{ site.githublink }})
 
 Hi, everyone! Welcome to {{ site.title }} . My name is {{ site.author }}.
 
