@@ -79,3 +79,11 @@ If you still being clueless about how tar command works eventho we already in we
 
 18. [SCP Linux Command](https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/)<br>
 This tutorial will help you so much when working on PopQuiz 2. And yeah SCP is a safer option for cp command that protect the transferred data from suspicious attacks.
+
+WEEK 7
+
+19. [SCP Linux Command](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)<br>
+Deadlock terjadi ketika setiap proses memegang resource dan menunggu resource lain. Sedangkan starvation adalah masalah yang terjadi ketika proses berprioritas tinggi terus dijalankan dan proses berprioritas rendah diblokir untuk waktu yang tidak terbatas.
+
+20. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>
+Website ini menjelaskan hampir seluruh materi yang sedang dibahas pada OS dengan singkat. Proses synchronization adalah tugas mengoordinasikan pelaksanaan proses sedemikian rupa sehingga tidak ada dua proses yang dapat memiliki akses ke data dan resourse bersama.
