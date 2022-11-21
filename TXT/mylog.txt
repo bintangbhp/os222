@@ -79,3 +79,9 @@ ZCZC W07 50 L05 QUIZ related including studying
 ZCZC W07 120 L09 Weekly Assignments
 ZCZC W07 10 L41 TXT/mylog.txt related
 ZCZC W07 100 L99 Face-to-face lecture
+ZCZC W08 120 L02 Zoom meeting
+ZCZC W08 120 L99 Offline Class
+ZCZC W08 240 L09 Weekly Assignment
+ZCZC W08 80 L05 Studying for Quiz
+ZCZC W08 60 L05 Pop Quiz
+ZCZC W08 10 L05 Weekly Quiz

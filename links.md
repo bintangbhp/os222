@@ -87,3 +87,11 @@ Deadlock terjadi ketika setiap proses memegang resource dan menunggu resource la
 
 20. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>
 Website ini menjelaskan hampir seluruh materi yang sedang dibahas pada OS dengan singkat. Proses synchronization adalah tugas mengoordinasikan pelaksanaan proses sedemikian rupa sehingga tidak ada dua proses yang dapat memiliki akses ke data dan resourse bersama.
+
+WEEK 8
+
+21. [Linux From Scratch - Wikipedia Bahasa Indonesia](https://id.wikipedia.org/wiki/Linux_From_Scratch)<br>
+This is good introduction to understand the concept of LFS in Indonesian. I couldn't find any better materials in Indonesian to explain the basic concepts of LFS. I think this might give you a big picture to understand the essentials of LFS.
+
+22. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+This article gives clear explanation about multiple-processor scheduling. This article explains that multiple CPU's are available in multiple-processor scheduling and hence load sharing becomes possible.
