@@ -95,3 +95,8 @@ This is good introduction to understand the concept of LFS in Indonesian. I coul
 
 22. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
 This article gives clear explanation about multiple-processor scheduling. This article explains that multiple CPU's are available in multiple-processor scheduling and hence load sharing becomes possible.
+
+WEEK 9
+
+21. [RAID level 0, 1, 5, 6, and 10](https://www.prepressure.com/library/technology/raid)<br>
+This is a comprehensive article about RAID. It has an extensive information about RAID 0, 1, 5, 6, and 10. There are some visualization, too, to help you to comprehend the materials better.
